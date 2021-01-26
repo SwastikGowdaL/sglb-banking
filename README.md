@@ -29,7 +29,7 @@ SGLB Banking is just like an any other online payment system out there (Eg - GPa
 
 ## Quick start
 
-* Clone the repo: git clone https://github.com/SwastikGowdaL/sglb-banking.git
+* <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/SwastikGowdaL/sglb-banking?style=flat-square">
 * Download as zip , extract it and use the files.
 
 Read the [Getting started page](https://gifted-murdock-801453.netlify.app/docs/) of docs for information on the contents, templates and frameworks used, and more.
