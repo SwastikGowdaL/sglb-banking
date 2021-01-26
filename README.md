@@ -24,7 +24,7 @@ SGLB Banking is just like an any other online payment system out there (Eg - GPa
 * [Documentation](#documentation)
 * [Contributing](#contributing)
 * [Creators](#creators)
-* [Copyright and license](#)
+* [Copyright and license](#copyright-and-license)
 
 
 ## Quick start
@@ -36,8 +36,8 @@ Read the [Getting started page](https://gifted-murdock-801453.netlify.app/docs/)
 
 ## Status
 
-![GitHub Release Date](https://img.shields.io/github/release-date/SwastikGowdaL/asfjdsjk?style=flat-square)
-![APM](https://img.shields.io/apm/l/SGLB%20Banking?color=green&style=flat-square)
+![GitHub Release Date](https://img.shields.io/github/release-date/SwastikGowdaL/sglb-banking?style=flat-square)
+![APM](https://img.shields.io/apm/l/sglb-banking?style=flat-square)
 
 
 ## Documentation
