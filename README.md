@@ -36,6 +36,7 @@ Read the [Getting started page](https://gifted-murdock-801453.netlify.app/docs/)
 
 ## Status
 
+<a href="https://github.com/SwastikGowdaL/sglb-banking/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/SwastikGowdaL/sglb-banking"></a>
 ![GitHub Release Date](https://img.shields.io/github/release-date/SwastikGowdaL/sglb-banking?style=flat-square)
 ![APM](https://img.shields.io/apm/l/sglb-banking?style=flat-square)
 
