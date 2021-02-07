@@ -4,7 +4,7 @@
 
 <img  src="illu.svg" alt="drawing" width="300"/>
 
-### [SGLB Banking](http://sglb-banking.infinityfreeapp.com/index.html)
+### [SGLB Banking](https://sglb-banking.infinityfreeapp.com/index.html)
 
 This Project is brought to you by [Swastik](https://swastikgowdal.github.io/SwastikGowda-Portfolio/) and Sindhu. </br>
 [Explore SGLB Banking docs »](https://gifted-murdock-801453.netlify.app/)</br>
